@@ -3,4 +3,13 @@ import Greeting from "./components/greeting";
 import Project from "./components/project";
 import About from "./components/about";
 
-export defau
+export default function page(){
+  return(
+    <>
+     <Navbar />
+     <Greeting />
+     <Project />
+     <About />
+    </>
+  )
+}
