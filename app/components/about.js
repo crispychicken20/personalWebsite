@@ -3,8 +3,7 @@ export default function About() {
         <div id="about">
             <h2 className="text-4xl pt-8 pb-4 font-bold">About Me</h2>
             <p className="rounded-xl">
-                Hello! I'm Chris
-            </p>
+                Hello! I'm Chris and I am a Data Scientiest            </p>
         </div>
     )
 }
