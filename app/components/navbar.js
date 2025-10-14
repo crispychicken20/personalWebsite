@@ -1,9 +1,9 @@
 export default function Navbar() {
     return (
-        <div className="flex gap-4 font-semibold text-xl py-4">
-            <p>Home</p>
-            <p>About</p>
-            <p>Projects</p>
-        </div>
+        <nav className="flex gap-4 font-semibold text-xl py-4">
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Projects</a>
+        </nav>
     )
 }
