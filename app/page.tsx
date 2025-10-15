@@ -9,8 +9,8 @@ export default function page(){
     <>
      <Navbar />
      <Greeting />
-     <Project />
      <About />
+     <Project />
      <Footer />
     </>
   )
