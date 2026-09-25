@@ -1,5 +1,3 @@
 export default function TARS() {
-    return(
-        
-    )
+  return null;
 }
