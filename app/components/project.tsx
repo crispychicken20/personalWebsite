@@ -28,7 +28,7 @@ export default function Project(){
                     broken down by class, gender, and age. Built with error handling for bad input and
                     documented cleaning assumptions throughout.
                     </p>
-                    <a href="#" className="font-semibold text-purple-600 hover:text-purple-700 transition-colors duration-200">Learn More</a>
+                    <a href="https://github.com/crispychicken20/Titanic-Cleaning-Pipeline" className="font-semibold text-purple-600 hover:text-purple-700 transition-colors duration-200">Learn More</a>
                 </div>
             </div>
 

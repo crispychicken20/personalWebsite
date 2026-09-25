@@ -13,7 +13,7 @@ export default function Greeting(){
             </div>
 
             <div className="flex gap-4 justify-center pt-6">
-                <a href="public/Chri_s_Resume (1).pdf" target="blank" rel="noopener noreferrer"
+                <a href="/Chris_Resume%20.pdf" target="blank" rel="noopener noreferrer"
                     className="rounded-lg bg-purple-600 px-6 py-3 font-semibold text-white
                                 hover:bg-purple-700 transition-colors">
                 Get in Touch
